@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>A decade of experience in Frontend Engineering, developing UI responsive web(RWD) and hybrid Mobile Apps using HTML5, CSS3, Javascript, Angular, React, Tailwind, Ionic & PWAs.<br><br>Have keen eye for User Experience & making UI more intuitive & accessible, have performed UX design & enhancements for different modules in the application.
+<br><br>A decade of experience in Full Stack Development, developing UI responsive web(RWD) and hybrid Mobile Apps using HTML5, CSS3, Javascript, Angular, Node, Express, Mongo, Tailwind, Ionic.<br><br>Have keen eye for User Experience & making UI more intuitive & accessible, have performed UX design & enhancements for different modules in the application.
 
 
 ## 🌐 Socials:
