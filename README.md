@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br><br>4 years of experience in Full Stack Development, developing UI responsive web(RWD) and hybrid Mobile Apps using HTML5, CSS3, Javascript, Angular, Node, Express, Mongo, Tailwind, Ionic.<br><br>Have keen eye for User Experience & making UI more intuitive & accessible, have performed enhancements for different modules in the application.
-
+<br><br>4 years of experience in Full Stack Development, developing UI responsive web(RWD) and hybrid Mobile Apps using HTML5, CSS3, Javascript, Angular, Node, Express, Mongo, Tailwind, Ionic.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/narayan-choudhary-3k)
