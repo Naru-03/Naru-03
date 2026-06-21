@@ -37,18 +37,17 @@ AI Engineer / Full Stack Developer with 6 years of software development and appl
 
 <div align="center">
   <a href="https://linkedin.com/in/narayan-choudhary-3k" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="https://dev.to/hudson_mathew_j" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&style=for-the-badge" height="25" alt="devto logo" /></a>
+  <a href="https://dev.to" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&style=for-the-badge" height="25" alt="devto logo" /></a>
     <a href="https://github.com/Naru-03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="25" alt="github logo" />
   </a>
-  <a href="mailto:hudsonmathew2004@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&style=for-the-badge" height="25" alt="email logo" /></a>
+  <a href="mailto:choudharynarayan041@gmail.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&color=EA4335&style=for-the-badge" height="25" alt="email logo" /></a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hudsonmathew1910&theme=dracula&hide_border=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hudsonmathew1910&show_icons=true&theme=dracula" height="180" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Naru-03&theme=tokyonight-duo)](https://git.io/streak-stats)
 </div>
 
 ###
