@@ -37,7 +37,7 @@ AI Engineer / Full Stack Developer with 6 years of software development and appl
 
 <div align="center">
   <a href="https://linkedin.com/in/narayan-choudhary-3k" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="25" alt="linkedin logo" /></a>
-  <a href="https://dev.to" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&style=for-the-badge" height="25" alt="devto logo" /></a>
+  <a href="https://dev.to/narayan_choudhary" target="_blank"><img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&color=0A0A0A&style=for-the-badge" height="25" alt="devto logo" /></a>
     <a href="https://github.com/Naru-03" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&color=181717&style=for-the-badge" height="25" alt="github logo" />
   </a>
