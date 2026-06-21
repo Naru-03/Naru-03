@@ -47,7 +47,7 @@ AI Engineer / Full Stack Developer with 6 years of software development and appl
 ###
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Naru-03&theme=tokyonight-duo)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Naru-03&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 </div>
 
 ###
