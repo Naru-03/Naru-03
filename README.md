@@ -47,7 +47,8 @@ AI Engineer / Full Stack Developer with 6 years of software development and appl
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Naru-03&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+  <img src="[https://streak-stats.demolab.com?user=hudsonmathew1910&theme=dracula&hide_border=false](https://streak-stats.demolab.com?user=Naru-03&theme=tokyonight-duo&type=json)" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hudsonmathew1910&show_icons=true&theme=dracula" height="180" />
 </div>
 
 ###
