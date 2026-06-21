@@ -1,4 +1,6 @@
-# 💫 About Me:
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 align="center">Hi 👋, I'm Narayan</h1>
+<h3 align="center">AI Engineer / Full Stack Developer</h3>
 AI Engineer / Full Stack Developer with 6 years of software development and application maintenance experience. Exceptional at team collaboration and consistently delivering high-quality, maintainable code on time. Driven by continuous learning and ready to embrace challenging roles in software development.
 
 # 💻 Tech Stack:
@@ -6,10 +8,6 @@ AI Engineer / Full Stack Developer with 6 years of software development and appl
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naru-03&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Narayan</h1>
-<h3 align="center">AI Engineer / Full Stack Developer</h3>
 
 ###
 
